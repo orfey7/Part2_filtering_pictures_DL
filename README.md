@@ -17,3 +17,16 @@
 Adam в большинстве случаев лучший среди адаптивных оптимизаторов. Хорошо работает с разреженными данными: адаптивная скорость обучения идеально подходит для этого типа наборов данных.
 Основные метрики, которые используем как результат работы программы это accuracy, precision, recall(полнота), f score(мера).
 Для получения графиков зависимости f меры, precision, recall, accuracy, loss от эпохи воспользуемся tensorboard.
+
+### Результаты тестирования:
+
+![1](https://user-images.githubusercontent.com/55453859/118717199-6bb59200-b82e-11eb-839d-f6e7bb93eca9.png)
+
+![2](https://user-images.githubusercontent.com/55453859/118717227-75d79080-b82e-11eb-96d1-92ad7e0aebee.png)
+
+![3](https://user-images.githubusercontent.com/55453859/118717258-812abc00-b82e-11eb-960f-cc0f47fe228d.png)
+
+![4](https://user-images.githubusercontent.com/55453859/118717261-81c35280-b82e-11eb-8054-dfc17b969842.png)
+
+![5](https://user-images.githubusercontent.com/55453859/118717275-87209d00-b82e-11eb-8178-d1d7f0ed685b.png)
+
